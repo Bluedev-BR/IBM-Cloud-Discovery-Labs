@@ -18,5 +18,20 @@ Uma vez que você já possui uma conta ativa na IBM Cloud você deve inserir um 
 
 ## Laboratorios
 
-1. Controlando um dispositivo IoT serverless por linguagem natural<br>*Eduardo Petecof & Joao Pedro Poloni Ponce*
-2. 
+#### Dia 1
+1. **Meu Primeiro Blockchain**<br>Hands on A 13:30 - 15:00 *Carlos Rischioto & Tito Garrido Ogando*
+2. **Não é só na minha máquina que funciona: Entenda Docker, Containers e Microsserviços e coloque sua aplicação no IBM Cloud**<br>Hands on B 13:30 - 15:00 *Claudiney Junior*
+3. **Machine Learning & Text Analytics com a plataforma de ciência de dados IBM SPSS Modeler**<br>Hands on A 15:00 - 16:30 *Claudio Pinheiro*
+4. **Criando e implantando modelos preditivos com Watson Studio**<br>Hands on B 15:00 - 16:30 *Fabricio Barth*
+5. **Desenvolvimento um Microservice na infraestrutura da IBM Cloud**<br>Hands on A 16:30 - 18:00 *Eduardo Ribas & Nelson Borges*
+6. **Como criar seu primeiro modelo de rede neural utilizando o Watson Studio e publicando via API em uma aplicação web**<br>Hands on B 16:30 - 18:00 *Jorge Chagas*
+
+#### Dia 2
+1. **Controlando Dispositivos IoT através de Linguagem Natural em uma arquitetura ServerLess**<br>Hands on A 9:30 - 10:00 *Eduardo Petecof Mattoso & João Pedro Poloni Ponce*
+2. **Business Game Analytics Experience**<br>Hands on B 9:30 - 10:00 *Luiz Godoy & Felipe Neiva*
+3. **Casos de Uso de Segurança Cognitiva com Watson**<br>Hands on A 10:30 - 12:00 *Pedro Bezerra*
+4. **Desenvolva seu ChatBot com IBM Watson**<br>Hands on B 10:30 - 12:00 *Sergio Gama & Victor Shynia*
+5. **Seu App iOS Cognitivo: CoreML + Watson Visual Recognition**<br>Hands on A 14:00 - 15:30 *Victor Shinya*
+6. **Construa seu primeiro Blockchain Smart Contract**<br>Hands on B 14:00 - 15:30 *Tito Garrido Ogando & Carlos Rischioto*
+7. **Questões críticas a serem respondidas antes e depois de uma migração do seu workload SAP para Cloud**<br>Hands on A 15:00 - 16:10 *Yankel Schwartz*
+8. *Em breve*<br>Hands on B 15:00 - 16:10
