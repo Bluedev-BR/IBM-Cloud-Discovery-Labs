@@ -18,4 +18,5 @@ Uma vez que você já possui uma conta ativa na IBM Cloud você deve inserir um 
 
 ## Laboratorios
 
-1. 
+1. Controlando um dispositivo IoT serverless por linguagem natural<br>*Eduardo Petecof & Joao Pedro Poloni Ponce*
+2. 
