@@ -19,7 +19,7 @@ Uma vez que você já possui uma conta ativa na IBM Cloud você deve inserir um 
 ## Laboratorios
 
 #### Dia 1
-1. **Meu Primeiro Blockchain**<br>Hands on A 13:30 - 15:00 *Carlos Rischioto & Tito Garrido Ogando*
+1. [**Meu Primeiro Blockchain**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-Meu-Primeiro-Blockchain)<br>Hands on A 13:30 - 15:00 *Carlos Rischioto & Tito Garrido Ogando*
 2. **Não é só na minha máquina que funciona: Entenda Docker, Containers e Microsserviços e coloque sua aplicação no IBM Cloud**<br>Hands on B 13:30 - 15:00 *Claudiney Junior*
 3. **Machine Learning & Text Analytics com a plataforma de ciência de dados IBM SPSS Modeler**<br>Hands on A 15:00 - 16:30 *Claudio Pinheiro*
 4. **Criando e implantando modelos preditivos com Watson Studio**<br>Hands on B 15:00 - 16:30 *Fabricio Barth*
