@@ -27,11 +27,11 @@ Uma vez que você já possui uma conta ativa na IBM Cloud você deve inserir um 
 6. [**Como criar seu primeiro modelo de rede neural utilizando o Watson Studio e publicando via API em uma aplicação web**](https://github.com/Bluedev-BR/ibm_cloud_disco_ai)<br>Hands on B 16:30 - 18:00 *Jorge Chagas*
 
 #### Dia 2
-1. [**Controlando Dispositivos IoT através de Linguagem Natural em uma arquitetura ServerLess**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-IoT-Serverless-NLU)<br>Hands on A 9:30 - 10:00 *Eduardo Petecof Mattoso & João Pedro Poloni Ponce*
+1. [**Controlando Dispositivos IoT através de Linguagem Natural em uma arquitetura ServerLess**](https://github.com/Bluedev-BR/NLU-IoT  )<br>Hands on A 9:30 - 10:00 *Eduardo Petecof Mattoso & João Pedro Poloni Ponce*
 2. [**Business Game Analytics Experience**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-Business-Game)<br>Hands on B 9:30 - 10:00 *Luiz Godoy & Felipe Neiva*
 3. [**Casos de Uso de Segurança Cognitiva com Watson**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-Seguranca-Cognitiva)<br>Hands on A 10:30 - 12:00 *Pedro Bezerra*
 4. [**Desenvolva seu ChatBot com IBM Watson**](https://github.com/Bluedev-BR/chatbot)<br>Hands on B 10:30 - 12:00 *Sergio Gama & Victor Shynia*
-5. [**Seu App iOS Cognitivo: CoreML + Watson Visual Recognition**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-App-iOS-Cognitivo)<br>Hands on A 14:00 - 15:30 *Victor Shinya*
+5. [**Seu App iOS Cognitivo: CoreML + Watson Visual Recognition**](https://github.com/Bluedev-BR/ios-live-recognition.git)<br>Hands on A 14:00 - 15:30 *Victor Shinya*
 6. [**Construa seu primeiro Blockchain Smart Contract**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-Smart-Contrat)<br>Hands on B 14:00 - 15:30 *Tito Garrido Ogando & Carlos Rischioto*
 7. [**Questões críticas a serem respondidas antes e depois de uma migração do seu workload SAP para Cloud**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-SAP-Cloud)<br>Hands on A 15:00 - 16:10 *Yankel Schwartz*
 8. *Em breve*<br>Hands on B 15:00 - 16:10
