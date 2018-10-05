@@ -23,7 +23,7 @@ Uma vez que você já possui uma conta ativa na IBM Cloud você deve inserir um 
 2. [**Não é só na minha máquina que funciona: Entenda Docker, Containers e Microsserviços e coloque sua aplicação no IBM Cloud**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-Entenda-Docker)<br>Hands on B 13:30 - 15:00 *Claudiney Junior*
 3. [**Machine Learning & Text Analytics com a plataforma de ciência de dados IBM SPSS Modeler**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-ML-TA)<br>Hands on A 15:00 - 16:30 *Claudio Pinheiro*
 4. [**Criando e implantando modelos preditivos com Watson Studio**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-Modelos-WS)<br>Hands on B 15:00 - 16:30 *Fabricio Barth*
-5. [**Desenvolvimento um Microservice na infraestrutura da IBM Cloud**](https://github.com/Bluedev-BR/IBM-Cloud-Discovery-Microservices-IBM-Cloud)<br>Hands on A 16:30 - 18:00 *Eduardo Ribas & Nelson Borges*
+5. [**Desenvolvimento um Microservice na infraestrutura da IBM Cloud**](https://github.com/Bluedev-BR/IBMDiscoveryLab)<br>Hands on A 16:30 - 18:00 *Eduardo Ribas & Nelson Borges*
 6. [**Como criar seu primeiro modelo de rede neural utilizando o Watson Studio e publicando via API em uma aplicação web**](https://github.com/Bluedev-BR/ibm_cloud_disco_ai)<br>Hands on B 16:30 - 18:00 *Jorge Chagas*
 
 #### Dia 2
