@@ -7,8 +7,8 @@ Antes de fazer os laboratórios, certifique-se que você possui uma conta na [IB
 Uma vez que você já possui uma conta ativa na IBM Cloud você deve inserir um promo code para que tenha acesso gratuito aos serviços utilizados pelo lab.
 
 ### Solicitando o Pormo Code
-1. Solicite o promo code da IBM Cloud: 6 meses de acesso trial com com 2GB e 10 serviços de limite. Vá para [Get Promo Code](#)
-2. Entre com o Event Name *aguarde*
+1. Solicite o promo code da IBM Cloud: 6 meses de acesso trial com com 2GB e 10 serviços de limite. Vá para [Get Promo Code](https://promocodes.mybluemix.net)
+2. Entre com o Event Name ICD-BRASIL
 3. Entre com seu IBM ID, que é o mesmo email utilizado para o registro na IBM Cloud
 4. Entre com o nome do time ou seu nome
 5. Clique em “I’m not a robot”
